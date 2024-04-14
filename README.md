@@ -1,2 +1,2 @@
-# menguasaiwebsite
-belajar HTML, CSS, PHP, MySQL.
+# PHP
+belajar PHP Dasar.
